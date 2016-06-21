@@ -2,6 +2,7 @@ name: LNR
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 1
+title: Portfolio
 cta:
   domain: null
   bucket: null
